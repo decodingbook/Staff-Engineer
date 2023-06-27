@@ -13,7 +13,7 @@
 https://bit.ly/3NEcX1w
 
 # 정오표 
-No confirmed errata were found for this product.
+Errata 파일을 다운로드하면 정오표를 확인할 수 있습니다.
 
 # 문의처 
 ask@decoding.co.kr 
